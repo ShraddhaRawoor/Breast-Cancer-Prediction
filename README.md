@@ -64,13 +64,14 @@ If requirements.txt is not available, install packages manually:
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 ---
-##Usage
-1.Open the Jupyter Notebook:
+## Usage
+1. Open the Jupyter Notebook:
 ```bash
 jupyter notebook
 2.Run the notebook Breast_Cancer_Prediction.ipynb step by step.
 3.Explore data preprocessing, model training, evaluation, and visualization.
 ```
-#Results
+---
+## Results
 The trained model predicts tumor malignancy with high accuracy. You can view the model performance metrics (accuracy, confusion matrix) in the notebook.
 Author
