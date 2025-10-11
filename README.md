@@ -55,7 +55,7 @@ Some important features used in this dataset include:
 git clone https://github.com/ShraddhaRawoor/Breast-Cancer-Prediction.git
 cd Breast-Cancer-Prediction
 ```
-2.Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -68,10 +68,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Open the Jupyter Notebook:
 ```bash
 jupyter notebook
-2.Run the notebook Breast_Cancer_Prediction.ipynb step by step.
-3.Explore data preprocessing, model training, evaluation, and visualization.
+2. Run the notebook Breast_Cancer_Prediction.ipynb step by step.
+3. Explore data preprocessing, model training, evaluation, and visualization.
 ```
 ---
 ## Results
 The trained model predicts tumor malignancy with high accuracy. You can view the model performance metrics (accuracy, confusion matrix) in the notebook.
-Author
