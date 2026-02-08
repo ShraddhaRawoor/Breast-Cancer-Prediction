@@ -15,7 +15,8 @@ A machine learning project that predicts whether a breast tumor is **malignant**
 ---
 
 ## Overview
-This project uses machine learning algorithms to classify breast cancer tumors based on features such as radius, texture, perimeter, area, smoothness, and more. The model helps in early detection, which can be crucial for treatment and survival rates.
+This project focuses on predicting whether a breast tumor is malignant or benign using machine learning techniques. The dataset consists of diagnostic features extracted from breast cancer images. Multiple classification algorithms such as Logistic Regression and Random Forest were applied, and model performance was evaluated using accuracy metrics and a confusion matrix. This project demonstrates the application of machine learning in healthcare for early disease detection.
+
 
 ---
 
@@ -73,4 +74,4 @@ jupyter notebook
 ```
 ---
 ## Results
-The trained model predicts tumor malignancy with high accuracy. You can view the model performance metrics (accuracy, confusion matrix) in the notebook.
+The machine learning models achieved high accuracy in predicting tumor malignancy. Random Forest performed better compared to baseline models. Model evaluation was carried out using accuracy score and confusion matrix, demonstrating reliable classification performance.
